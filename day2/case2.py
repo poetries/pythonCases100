@@ -25,3 +25,9 @@ for idx in range(0,6):
         print (i-arr[idx])*rat[idx]
         i=arr[idx]
 print(r)
+
+# 以上实例输出结果为：
+# 净利润:120000
+# 1500.0
+# 10000.0
+# 11500.0
